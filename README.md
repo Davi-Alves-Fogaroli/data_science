@@ -1,2 +1,2 @@
 # data_science
-Estudos banco de dados, pl/sql
+Estudos banco de dados oracle, pl/sql
